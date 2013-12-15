@@ -2,7 +2,9 @@ SquareProblem
 =============
 
 CS 1336 – PROJECT 5 – Pattern Squares 
-CS 1336 – PROJECT 5 – Pattern Squares 
+
+https://www.dropbox.com/s/549s3qiwbwpszus/project5_F13.pdf
+
 Pseudocode Due: in eLearning - 11/21 by 11:59 PM – No late submissions accepted 
 Code Due:   in eLearning - 12/15 by noon – No late submissions accepted 
 THIS PROJECT WILL COUNT FOR DOUBLE POINTS 
